@@ -1,0 +1,16 @@
+#search-form
+{
+	margin: 5% 0 5% 0;
+	backgound-color: black;   
+}
+
+#search-form label
+{
+	margin: 2% 0 2% 0; 
+}
+
+#filter-button
+{
+	float:right;
+	margin: 0 2% 2% 0;   
+}

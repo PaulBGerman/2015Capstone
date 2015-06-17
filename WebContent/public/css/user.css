@@ -1,0 +1,35 @@
+
+.sign-out {
+	text-align: right;
+}
+.row {
+	
+    border: 2;
+    border-style: solid;
+    font-weight: 900;
+    letter-spacing: 5px;
+    text-transform: highcase;
+}
+.links {
+	text-align: center;
+}
+.form-inline {
+	text-align: center;
+}
+
+
+.btn-primary {
+    background: #0099cc;
+    color: #ffffff;
+}
+
+.form-group {
+	text-align: center;
+	font-size: 100%;
+}
+.checkbox {
+	text-align: center
+}
+.btn btn-default {
+	text-align: center
+}

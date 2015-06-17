@@ -1,0 +1,25 @@
+.view-event-buttons
+{
+	float:right;
+	margin: 0 2% 2% 0;
+}
+
+.view-event-boxes
+{
+	height: 200px;
+	background-color: #3f372f; 
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	padding: 2%;
+	margin: 0.5%; 
+	color: #F5F5F0;
+	text-align: center; 
+	
+}
+
+.view-event-boxes-all
+{
+	text-align:center; 
+	margin: 0 auto 0 auto; 
+}
